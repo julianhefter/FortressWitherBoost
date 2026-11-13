@@ -1,0 +1,5 @@
+name: FortressWitherBoost
+version: 1.0.0
+main: de.example.fortresswitherboost.FortressWitherBoost
+api-version: '26.2'
+description: Adds extra naturally spawned wither skeletons inside nether fortresses.
